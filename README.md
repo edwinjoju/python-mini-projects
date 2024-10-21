@@ -8,11 +8,6 @@ Simple Python Projects for learning
 4. hangman
 5. rock, paper, scissors
 6. password generator
-7. QR code generator
-8. web site checker
-9. common password checker
-10. bruteforce
-11. image downloader
-12. tax calcuator
-
+7. web site checker
+8. 
 
