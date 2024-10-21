@@ -9,5 +9,5 @@ Simple Python Projects for learning
 5. rock, paper, scissors
 6. password generator
 7. web site checker
-8. 
+
 
